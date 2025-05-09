@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedora frontend com foco em Angular e experiência em codar aplicações web modernas, escaláveis e orientadas à experiência do usuário. Trabalho com tecnologias como JavaScript, TypeScript, D3.js, SCSS e Leaflet, integrando APIs e criando componentes reutilizáveis, responsivos e performáticos. Ah, e também já até me aventurei com Android em um projeto com Kotlin e Compose!<br><br>Curiosa por natureza, sou movida pela vontade de fazer melhor e pela alegria de ver um PR aprovado (e rodando bonitinho em produção!).</p>
+<p align="left">Sou desenvolvedora frontend com foco em Angular e experiência em codar aplicações web modernas, escaláveis e orientadas à experiência do usuário. Trabalho com tecnologias como JavaScript, TypeScript, D3.js, SCSS e Leaflet, integrando APIs e criando componentes reutilizáveis, responsivos e performáticos. Ah, e também já até me aventurei com Android em um projeto com Kotlin e Compose!<br><br>Curiosa por natureza, sou movida pela vontade de fazer melhor e pela alegria de ver um PR aprovado (e rodando bonitinho em produção).</p>
 
 ###
 
